@@ -1,0 +1,1634 @@
+[
+    {
+        "name": "Nevada.FM",
+        "audio_url": "https://phoebe.streamerr.co:5130/nevada.mp3",
+        "station_url": "https://nevada.fm",
+        "genres": []
+    },
+    {
+        "name": "Ambient.FM",
+        "audio_url": "https://ambient.streamerr.co:5130/ambient.mp3",
+        "station_url": "https://nevada.fm",
+        "genres": []
+    },
+    {
+        "name": "Radio Nostalgia - Italy",
+        "audio_url": "https://sc.streamingfm.it:8070/nostalgia",
+        "station_url": "https://www.radionostalgia.fm",
+        "genres": []
+    },
+    {
+        "name": "Radio Nostalgia - Netherlands",
+        "audio_url": "https://cast1.torontocast.com:1635/stream",
+        "station_url": "https://www.radio-nostalgia.torontocast.stream",
+        "genres": []
+    },
+    {
+        "name": "nugs.net Radio",
+        "audio_url": "https://radio.nugs.net/nugsnet",
+        "station_url": "https://radio.nugs.net/index.html",
+        "genres": []
+    },
+    {
+        "name": "Ten Club Radio",
+        "audio_url": "https://radio.nugs.net/pearljam",
+        "station_url": "https://radio.nugs.net/index.html",
+        "genres": []
+    },
+    {
+        "name": "BBC Radio 2",
+        "audio_url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8",
+        "station_url": "https://www.bbc.com",
+        "genres": []
+    },
+    {
+        "name": "BBC World Service",
+        "audio_url": "http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls",
+        "station_url": "https://www.bbc.com",
+        "genres": []
+    },
+    {
+        "name": "BBC Radio 6",
+        "audio_url": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8",
+        "station_url": "https://www.bbc.com",
+        "genres": []
+    },
+    {
+        "name": "dublab",
+        "audio_url": "https://dublab.out.airtime.pro/dublab_a",
+        "station_url": "https://www.dublab.com",
+        "genres": []
+    },
+    {
+        "name": "FIP",
+        "audio_url": "https://stream.radiofrance.fr/fip/fip.m3u8",
+        "station_url": "https://www.radiofrance.fr/fip",
+        "genres": []
+    },
+    {
+        "name": "KEXP",
+        "audio_url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
+        "station_url": "https://www.kexp.org",
+        "genres": []
+    },
+    {
+        "name": "NTS Radio - 1",
+        "audio_url": "https://streams.radiomast.io/nts1/hls.m3u8",
+        "station_url": "https://www.nts.live",
+        "genres": []
+    },
+    {
+        "name": "NTS Radio - 2",
+        "audio_url": "https://streams.radiomast.io/nts2/hls.m3u8",
+        "station_url": "https://www.nts.live",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Beat Blender",
+        "audio_url": "https://somafm.com/beatblender.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Black Rock FM",
+        "audio_url": "https://somafm.com/brfm.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Boot Liquor",
+        "audio_url": "https://somafm.com/bootliquor.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Bossa Beyond",
+        "audio_url": "https://somafm.com/bossa.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Chillits Lounge",
+        "audio_url": "https://somafm.com/chillits.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Christmas Lounge",
+        "audio_url": "https://somafm.com/christmas.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Christmas Rocks!",
+        "audio_url": "https://somafm.com/xmasrocks.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - cliqhop idm",
+        "audio_url": "https://somafm.com/cliqhop.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Covers",
+        "audio_url": "https://somafm.com/covers.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - The Dark Zone",
+        "audio_url": "https://somafm.com/darkzone.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Deep Space One",
+        "audio_url": "https://somafm.com/deepspaceone.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - DEF CON Radio",
+        "audio_url": "https://somafm.com/defcon.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Department Store Christmas",
+        "audio_url": "https://somafm.com/deptstore.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Digitalis",
+        "audio_url": "https://somafm.com/digitalis.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Doomed",
+        "audio_url": "https://somafm.com/doomed.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Drone Zone",
+        "audio_url": "https://somafm.com/dronezone.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Dub Step Beyond",
+        "audio_url": "https://somafm.com/dubstep.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Fluid",
+        "audio_url": "https://somafm.com/fluid.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Folk Forward",
+        "audio_url": "https://somafm.com/folkfwd64.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Groove Salad",
+        "audio_url": "https://somafm.com/groovesalad.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Groove Salad Classic",
+        "audio_url": "https://somafm.com/gsclassic.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Heavyweight Reggae",
+        "audio_url": "https://somafm.com/reggae.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Illinois Street Lounge",
+        "audio_url": "https://somafm.com/illstreet.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - The In-Sound",
+        "audio_url": "https://somafm.com/insound.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Indie Pop Rocks!",
+        "audio_url": "https://somafm.com/indiepop.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Jolly Ol' Soul",
+        "audio_url": "https://somafm.com/jollysoul.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Left Coast 70s",
+        "audio_url": "https://somafm.com/seventies.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Lush",
+        "audio_url": "https://somafm.com/lush.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Metal Detector",
+        "audio_url": "https://somafm.com/metal.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Mission Control",
+        "audio_url": "https://somafm.com/missioncontrol.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - n5MD Radio",
+        "audio_url": "https://somafm.com/n5md.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - PopTron",
+        "audio_url": "https://somafm.com/poptron.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Secret Agent",
+        "audio_url": "https://somafm.com/secretagent.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Seven Inch Soul",
+        "audio_url": "https://somafm.com/7soul.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - SF 10-33",
+        "audio_url": "https://somafm.com/sf1033.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - SF in SF",
+        "audio_url": "https://somafm.com/sfinsf.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - SF Police Scanner",
+        "audio_url": "https://somafm.com/scanner.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - SomaFM Live",
+        "audio_url": "https://somafm.com/live.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - SomaFM Specials",
+        "audio_url": "https://somafm.com/specials.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Sonic Universe",
+        "audio_url": "https://somafm.com/sonicuniverse.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Space Station Soma",
+        "audio_url": "https://somafm.com/spacestation.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Suburbs of Goa",
+        "audio_url": "https://somafm.com/suburbsofgoa.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Synphaera Radio",
+        "audio_url": "https://somafm.com/synphaera.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - ThistleRadio",
+        "audio_url": "https://somafm.com/thistle.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Tiki Time",
+        "audio_url": "https://somafm.com/tikitime.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - The Trip",
+        "audio_url": "https://somafm.com/thetrip.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Underground 80s",
+        "audio_url": "https://somafm.com/u80s.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Vaporwaves",
+        "audio_url": "https://somafm.com/vaporwaves.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "SomaFM - Xmas in Frisko",
+        "audio_url": "https://somafm.com/xmasinfrisko.pls",
+        "station_url": "https://www.somafm.com",
+        "genres": []
+    },
+    {
+        "name": "WFMU - Upsala College - Live Stream",
+        "audio_url": "https://stream0.wfmu.org/freeform-128k.mp3",
+        "station_url": "https://www.wfmu.org",
+        "genres": []
+    },
+    {
+        "name": "WFMU - Upsala College - Rock 'n' Soul Radio",
+        "audio_url": "https://stream0.wfmu.org/rocknsoul",
+        "station_url": "https://www.wfmu.org",
+        "genres": []
+    },
+    {
+        "name": "WFMU - Upsala College - Give The Drummer Radio",
+        "audio_url": "https://stream0.wfmu.org/drummer.mp3",
+        "station_url": "https://www.wfmu.org",
+        "genres": []
+    },
+    {
+        "name": "WFMU - Upsala College - Sheena's Jungle Room",
+        "audio_url": "https://stream0.wfmu.org/sheena",
+        "station_url": "https://www.wfmu.org",
+        "genres": []
+    },
+    {
+        "name": "Worldwide FM",
+        "audio_url": "https://worldwide-fm.radiocult.fm/stream",
+        "station_url": "https://worldwidefm.net",
+        "genres": []
+    },
+    {
+        "name": "WWOZ Radio - Primary",
+        "audio_url": "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
+        "station_url": "https://www.wwoz.org",
+        "genres": []
+    },
+    {
+        "name": "WWOZ Radio - All New Orleans Music",
+        "audio_url": "https://wwoz-sc.streamguys1.com/wwozhd2-hi",
+        "station_url": "https://www.wwoz.org",
+        "genres": []
+    },
+    {
+        "name": "Nightwave Plaza",
+        "audio_url": "https://radio.plaza.one/hls",
+        "station_url": "https://plaza.one",
+        "genres": []
+    },
+    {
+        "name": "coma.omFM.ru",
+        "audio_url": "https://coma.omfm.ru/assets/playlist.pls",
+        "station_url": "https://coma.omfm.ru",
+        "genres": []
+    },
+    {
+        "name": "TruckStopRadio",
+        "audio_url": "https://oreo.truckstopradio.co.uk/listen/truckstopradio/radio.mp3",
+        "station_url": "https://truckstopradio.co.uk",
+        "genres": []
+    },
+    {
+        "name": "KWMR - Point Reyes Community Radio",
+        "audio_url": "https://listen.kwmr.org/live",
+        "station_url": "https://www.kwmr.org",
+        "genres": []
+    },
+    {
+        "name": "Japanisu Radio",
+        "audio_url": "https://listen.japanisu.com/listen/japanisu/radio.mp3",
+        "station_url": "https://www.japanisu.com",
+        "genres": []
+    },
+    {
+        "name": "Cinemix",
+        "audio_url": "https://kathy.torontocast.com:1190/stream",
+        "station_url": "https://www.cinemix.us",
+        "genres": []
+    },
+    {
+        "name": "FreeCodeCamp Radio",
+        "audio_url": "https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3",
+        "station_url": "https://coderadio.freecodecamp.org",
+        "genres": []
+    },
+    {
+        "name": "Ambient Sleeping Pill",
+        "audio_url": "https://radio.stereoscenic.com/asp-s",
+        "station_url": "https://ambientsleepingpill.com",
+        "genres": []
+    },
+    {
+        "name": "KUAA - Utah Arts Alliance",
+        "audio_url": "https://stream.xmission.com/kuaa",
+        "station_url": "https://kuaafm.org",
+        "genres": []
+    },
+    {
+        "name": "WBOR - Bowdoin College Radio",
+        "audio_url": "https://listen.wbor.org",
+        "station_url": "https://wbor.org",
+        "genres": []
+    },
+    {
+        "name": "WSUM - University of Wisconsin-Madison",
+        "audio_url": "https://ice23.securenetsystems.net/WSUMFM",
+        "station_url": "https://wsum.org",
+        "genres": []
+    },
+    {
+        "name": "WVFS - Florida State University",
+        "audio_url": "http://voice.wvfs.fsu.edu:8000/stream",
+        "station_url": "https://wvfs.fsu.edu",
+        "genres": []
+    },
+    {
+        "name": "WXTJ - University of Virginia",
+        "audio_url": "https://streams.wtju.net/wxtj-live.mp3",
+        "station_url": "https://www.wxtj.fm",
+        "genres": []
+    },
+    {
+        "name": "KTUH - University of Hawaii at Manoa",
+        "audio_url": "https://stream.ktuh.org:8001/stream",
+        "station_url": "https://ktuh.org",
+        "genres": []
+    },
+    {
+        "name": "KSCU - Santa Clara University",
+        "audio_url": "https://kscu.streamguys1.com/live",
+        "station_url": "https://www.kscu.org",
+        "genres": []
+    },
+    {
+        "name": "WKDU - Drexel University",
+        "audio_url": "https://streams.wkdu.org/listen.aac",
+        "station_url": "https://www.wkdu.org",
+        "genres": []
+    },
+    {
+        "name": "WREK - Georgia Institute of Technology - Main",
+        "audio_url": "https://streaming.wrek.org/main/128kb.mp3",
+        "station_url": "https://www.wrek.org",
+        "genres": []
+    },
+    {
+        "name": "WREK - Georgia Institute of Technology - HD2",
+        "audio_url": "https://streaming.wrek.org/hd2/128kb.mp3",
+        "station_url": "https://www.wrek.org",
+        "genres": []
+    },
+    {
+        "name": "KCSU - Colorado State University",
+        "audio_url": "https://listen.kcsufm.com/stream",
+        "station_url": "https://kcsufm.com",
+        "genres": []
+    },
+    {
+        "name": "KXLU - Loyola Marymount University",
+        "audio_url": "https://kxlu.streamguys1.com/kxlu-hi",
+        "station_url": "https://www.kxlu.com",
+        "genres": []
+    },
+    {
+        "name": "WBRU - Brown University",
+        "audio_url": "https://s3.radio.co/s115121de1/listen",
+        "station_url": "https://www.wbru.com",
+        "genres": []
+    },
+    {
+        "name": "WBRU 360 - Brown University",
+        "audio_url": "https://stream.radio.co/s4d09e922b/listen",
+        "station_url": "https://www.wbru.com",
+        "genres": []
+    },
+    {
+        "name": "KANM - Texas A&M University",
+        "audio_url": "https://icecast.kanm.org/listen",
+        "station_url": "https://kanm.tamu.edu",
+        "genres": []
+    },
+    {
+        "name": "WRFL - University of Kentucky",
+        "audio_url": "https://wrfl.fm:8002/stream/1",
+        "station_url": "https://wrfl.fm",
+        "genres": []
+    },
+    {
+        "name": "WRCP - University of Paris",
+        "audio_url": "https://www.radiocampusparis.org/stream/",
+        "station_url": "https://www.radiocampusparis.org",
+        "genres": []
+    },
+    {
+        "name": "WNYU - New York University",
+        "audio_url": "https://www.wnyu-ice-cast-relay.com/wnyu.mp3",
+        "station_url": "https://wnyu.org",
+        "genres": []
+    },
+    {
+        "name": "WKCR - Columbia University",
+        "audio_url": "https://wkcr.streamguys1.com/live",
+        "station_url": "https://www.cc-seas.columbia.edu/wkcr/#",
+        "genres": []
+    },
+    {
+        "name": "WSOU - Seton Hall University",
+        "audio_url": "https://d3byg0ij92yqk6.cloudfront.net/streamWSOU1.m3u8",
+        "station_url": "https://www.wsou.net",
+        "genres": []
+    },
+    {
+        "name": "WUSB - Stony Brook University",
+        "audio_url": "https://stream.wusb.stonybrook.edu:8092/listen.pl/relay",
+        "station_url": "https://www.wusb.fm",
+        "genres": []
+    },
+    {
+        "name": "WXYC - University of North Carolina at Chapel Hill",
+        "audio_url": "https://audio-mp3.ibiblio.org/wxyc.mp3",
+        "station_url": "https://wxyc.org/",
+        "genres": []
+    },
+    {
+        "name": "KALX - University of California, Berkeley",
+        "audio_url": "https://stream.kalx.berkeley.edu:8443/kalx-128.mp3",
+        "station_url": "https://www.kalx.berkeley.edu/",
+        "genres": []
+    },
+    {
+        "name": "KVRX - University of Texas at Austin",
+        "audio_url": "https://www.kvrx.org/now_playing/stream",
+        "station_url": "https://kvrx.org/app/",
+        "genres": []
+    },
+    {
+        "name": "WSUM - University of Wisconsin—Madison",
+        "audio_url": "https://ice23.securenetsystems.net/WSUMFM",
+        "station_url": "https://wsum.org/",
+        "genres": []
+    },
+    {
+        "name": "KCOU - University of Missouri",
+        "audio_url": "https://ssl.shoutcaststreaming.us:8088/stream",
+        "station_url": "https://kcou.fm/",
+        "genres": []
+    },
+    {
+        "name": "KAMP - University of Arizona",
+        "audio_url": "https://ice42.securenetsystems.net/KAMP",
+        "station_url": "https://www.kampstudentradio.com/",
+        "genres": []
+    },
+    {
+        "name": "WDBM - Michigan State University",
+        "audio_url": "http://play.impact89fm.org:8000/impact89fm",
+        "station_url": "https://impact89fm.org/",
+        "genres": []
+    },
+    {
+        "name": "WPGU - University of Illinois-Urbana-Champaign",
+        "audio_url": "http://ice64.securenetsystems.net/WPGUFM",
+        "station_url": "http://illinimedia.org/",
+        "genres": []
+    },
+    {
+        "name": "WWVU - West Virginia University",
+        "audio_url": "http://n0a.radiojar.com/56p3rt9eytzuv?1665850857=&rj-tok=AAABg9x8ZxMAGQavy8qgdTpyMQ&rj-ttl=5",
+        "station_url": "https://u92themoose.com/",
+        "genres": []
+    },
+    {
+        "name": "KFJC - Foothill College",
+        "audio_url": "http://netcast.kfjc.org/kfjc-128k-mp3",
+        "station_url": "https://kfjc.org/",
+        "genres": []
+    },
+    {
+        "name": "WVFS - Florida State University",
+        "audio_url": "http://voice.wvfs.fsu.edu:8000/stream",
+        "station_url": "https://wvfs.fsu.edu/",
+        "genres": []
+    },
+    {
+        "name": "WUOG - University of Georgia",
+        "audio_url": "https://stream.wuog.org/stream",
+        "station_url": "http://wuog.org/",
+        "genres": []
+    },
+    {
+        "name": "WXTJ - University of Virginia",
+        "audio_url": "https://streams.wtju.net/wxtj-live.mp3",
+        "station_url": "https://www.wxtj.fm/",
+        "genres": []
+    },
+    {
+        "name": "WLUR - Washington and Lee University",
+        "audio_url": "https://wlur.radioca.st/stream",
+        "station_url": "https://my.wlu.edu/wlur",
+        "genres": []
+    },
+    {
+        "name": "WTBU - Boston University",
+        "audio_url": "http://wtbu.bu.edu:1800/",
+        "station_url": "https://sites.bu.edu/wtbu/",
+        "genres": []
+    },
+    {
+        "name": "WKDU - Drexel University",
+        "audio_url": "https://streams.wkdu.org/listen.mp3",
+        "station_url": "https://wkdu.org/",
+        "genres": []
+    },
+    {
+        "name": "WCBN - University of Michigan",
+        "audio_url": "http://floyd.wcbn.org:8000/wcbn-hd.mp3",
+        "station_url": "http://www.wcbn.org/",
+        "genres": []
+    },
+    {
+        "name": "WUTK - University of Tennessee, Knoxville",
+        "audio_url": "https://15233.live.streamtheworld.com/WUTKFM.mp3",
+        "station_url": "https://wutkradio.com/",
+        "genres": []
+    },
+    {
+        "name": "WKNC - North Carolina State University",
+        "audio_url": "https://das-edge14-live365-dal02.cdnstream.com/a45877",
+        "station_url": "https://wknc.org/",
+        "genres": []
+    },
+    {
+        "name": "WRUV - University of Vermont",
+        "audio_url": "http://icecast.uvm.edu:8005/wruv_fm_128",
+        "station_url": "http://wruv.org/",
+        "genres": []
+    },
+    {
+        "name": "KWVA - University of Oregon",
+        "audio_url": "http://kwvaradio.uoregon.edu:8000/stream/1/",
+        "station_url": "https://kwva.uoregon.edu/",
+        "genres": []
+    },
+    {
+        "name": "KUNM - University of New Mexico",
+        "audio_url": "https://19273.live.streamtheworld.com/KUNMFM_128.mp3",
+        "station_url": "https://www.kunm.org/",
+        "genres": []
+    },
+    {
+        "name": "WUVT - Virginia Tech",
+        "audio_url": "https://stream.wuvt.vt.edu/wuvt-hq.aac",
+        "station_url": "https://www.wuvt.vt.edu/",
+        "genres": []
+    },
+    {
+        "name": "WHUS - University of Connecticut",
+        "audio_url": "http://stream.whus.org:8000/whusfm",
+        "station_url": "https://whus.org/",
+        "genres": []
+    },
+    {
+        "name": "KMNR - Missouri University of Science and Technology",
+        "audio_url": "https://boombox.kmnr.org/webstream.mp3",
+        "station_url": "https://kmnr.org/",
+        "genres": []
+    },
+    {
+        "name": "WRPI - Rensselaer Polytechnic Institute",
+        "audio_url": "http://icecast1.wrpi.org:8000/mp3-256.mp3",
+        "station_url": "https://www.wrpi.org/",
+        "genres": []
+    },
+    {
+        "name": "KZUU - Washington State University",
+        "audio_url": "https://ice8.securenetsystems.net/KZUU",
+        "station_url": "https://kzuu.org/",
+        "genres": []
+    },
+    {
+        "name": "KSPC - Claremont Colleges",
+        "audio_url": "https://kspc.radioca.st/stream",
+        "station_url": "https://kspc.org/",
+        "genres": []
+    },
+    {
+        "name": "KXUA - University of Arkansas",
+        "audio_url": "https://listen.kxua.com/stream",
+        "station_url": "https://kxua.uark.edu/",
+        "genres": []
+    },
+    {
+        "name": "KZSC - University of California, Santa Cruz",
+        "audio_url": "https://kzscfms1-geckohost.radioca.st/kzschigh",
+        "station_url": "https://kzsc.org/",
+        "genres": []
+    },
+    {
+        "name": "WVUM - University of Miami",
+        "audio_url": "https://s7.voscast.com:8693/stream",
+        "station_url": "https://www.wvum.org/",
+        "genres": []
+    },
+    {
+        "name": "KFSR - California State University, Fresno",
+        "audio_url": "https://icecast.auxiliary.com/kfsr",
+        "station_url": "http://kfsr.org/",
+        "genres": []
+    },
+    {
+        "name": "WSBF - Clemson University",
+        "audio_url": "https://wsbf.net/stream/high",
+        "station_url": "https://wsbf.net/#!/",
+        "genres": []
+    },
+    {
+        "name": "WREK - Georgia Institute of Technology",
+        "audio_url": "http://streaming.wrek.org:8000/wrek_live-128kb",
+        "station_url": "https://www.wrek.org/",
+        "genres": []
+    },
+    {
+        "name": "CITR - University of British Columbia",
+        "audio_url": "https://live.citr.ca/live.aac",
+        "station_url": "https://www.citr.ca/",
+        "genres": []
+    },
+    {
+        "name": "WTUL - Tulane University",
+        "audio_url": "http://129.81.156.83:8000/stream",
+        "station_url": "https://www.wtulneworleans.com/",
+        "genres": []
+    },
+    {
+        "name": "KDVS - University of California, Davis",
+        "audio_url": "https://archives.kdvs.org/stream",
+        "station_url": "https://kdvs.org/",
+        "genres": []
+    },
+    {
+        "name": "WUCF - University of Central Florida",
+        "audio_url": "https://peridot.streamguys1.com:7835/WUCF",
+        "station_url": "https://www.wucf.org/",
+        "genres": []
+    },
+    {
+        "name": "WERS - Emerson College",
+        "audio_url": "https://24413.live.streamtheworld.com/WERSFM_SC",
+        "station_url": "https://wers.org/",
+        "genres": []
+    },
+    {
+        "name": "WKPS - Penn State University",
+        "audio_url": "https://n0a.radiojar.com/k9uw1tyr7x8uv?rj-ttl=5&rj-tok=AAABhCVt97AAAWGizcTmTKqRJQ",
+        "station_url": "https://www.thelion.fm/",
+        "genres": []
+    },
+    {
+        "name": "KZSU - Stanford University",
+        "audio_url": "http://kzsu-streams.stanford.edu/kzsu-1-128.mp3",
+        "station_url": "http://kzsu.stanford.edu/",
+        "genres": []
+    },
+    {
+        "name": "WPRB - Princeton University",
+        "audio_url": "https://wprb.streamguys1.com/live",
+        "station_url": "https://wprb.com/",
+        "genres": []
+    },
+    {
+        "name": "KTCU - Texas Christian University",
+        "audio_url": "http://ktcustream01.is.tcu.edu/ktcu",
+        "station_url": "https://ktcu.tcu.edu/",
+        "genres": []
+    },
+    {
+        "name": "CFUV - University of Victoria",
+        "audio_url": "https://ais-sa1.streamon.fm/7132_64k.aac",
+        "station_url": "http://cfuv.uvic.ca/cms/",
+        "genres": []
+    },
+    {
+        "name": "CHUO - University of Ottawa",
+        "audio_url": "https://stream.statsradio.com:8102/stream",
+        "station_url": "https://chuo.fm/",
+        "genres": []
+    },
+    {
+        "name": "KOLN - University of Cologne",
+        "audio_url": "https://live.koelncampus.com/live",
+        "station_url": "https://www.koelncampus.com/",
+        "genres": []
+    },
+    {
+        "name": "WHRB - Harvard University",
+        "audio_url": "https://stream.whrb.org/whrb-he-aac",
+        "station_url": "https://www.whrb.org/",
+        "genres": []
+    },
+    {
+        "name": "WUML - University of Massachusetts Lowell",
+        "audio_url": "http://cp12.shoutcheap.com:8306/stream",
+        "station_url": "https://www.wuml.org/",
+        "genres": []
+    },
+    {
+        "name": "KTUH - University of Hawaii at Manoa",
+        "audio_url": "https://stream.ktuh.org:8001/stream",
+        "station_url": "https://ktuh.org/",
+        "genres": []
+    },
+    {
+        "name": "KTRU - Rice University",
+        "audio_url": "https://ice41.securenetsystems.net/KTRU64M",
+        "station_url": "https://ktru.org/",
+        "genres": []
+    },
+    {
+        "name": "KURE - Iowa State University",
+        "audio_url": "http://kure-network.stuorg.iastate.edu:8000/KUREBroadcast",
+        "station_url": "https://kure.stuorg.iastate.edu/",
+        "genres": []
+    },
+    {
+        "name": "WVJC - Wabash Valley College",
+        "audio_url": "https://server02.nkstreaming.com:8122/stream",
+        "station_url": "http://www.bashradio.com/",
+        "genres": []
+    },
+    {
+        "name": "WXDU - Duke University",
+        "audio_url": "http://weeping.wxdu.duke.edu:8000/wxdu128.mp3",
+        "station_url": "https://www.wxdu.org/",
+        "genres": []
+    },
+    {
+        "name": "KCSU - Colorado State University",
+        "audio_url": "https://listen.kcsufm.com/stream",
+        "station_url": "https://kcsufm.com/",
+        "genres": []
+    },
+    {
+        "name": "WVPH - Rutgers University",
+        "audio_url": "http://rsc417c1.rutgers.edu:8000/WRSU-FM",
+        "station_url": "https://www.thecore.fm/",
+        "genres": []
+    },
+    {
+        "name": "WMUC - University of Maryland",
+        "audio_url": "https://wmuc.umd.edu:8443/wmuc-hq",
+        "station_url": "http://www.wmuc.umd.edu/",
+        "genres": []
+    },
+    {
+        "name": "KCPR - California Polytechnic State University, San Luis Obispo",
+        "audio_url": "https://ice9.securenetsystems.net/KCPR1",
+        "station_url": "https://kcpr.org/",
+        "genres": []
+    },
+    {
+        "name": "WVUD - University of Delaware",
+        "audio_url": "http://128.175.76.123:8000/stream/1/",
+        "station_url": "https://www.wvud.org/",
+        "genres": []
+    },
+    {
+        "name": "WNSB - Norfolk State University",
+        "audio_url": "http://27033.live.streamtheworld.com:3690/WNSBFM.mp3",
+        "station_url": "https://www.nsu.edu/WNSB",
+        "genres": []
+    },
+    {
+        "name": "WRAS - Georgia State University",
+        "audio_url": "https://15233.live.streamtheworld.com/WRASFM.mp3",
+        "station_url": "https://wras.org/",
+        "genres": []
+    },
+    {
+        "name": "KXLU - Loyola Marymount University",
+        "audio_url": "https://kxlu.streamguys1.com/kxlu-hi",
+        "station_url": "https://kxlu.com/",
+        "genres": []
+    },
+    {
+        "name": "KTSW - Texas State University",
+        "audio_url": "https://ktswlive.txstate.edu:8102/listen",
+        "station_url": "https://ktsw.txst.edu/",
+        "genres": []
+    },
+    {
+        "name": "CJIQ - Conestoga College",
+        "audio_url": "https://conestoga.leanstream.co/CJIQFM-MP3",
+        "station_url": "https://www.cjiqfm.com/",
+        "genres": []
+    },
+    {
+        "name": "KRUI - University of Iowa",
+        "audio_url": "http://krui.student-services.uiowa.edu:8000/listen",
+        "station_url": "https://krui.fm/",
+        "genres": []
+    },
+    {
+        "name": "KUOM - University of Minnesota",
+        "audio_url": "http://radiokstreams.cce.umn.edu:8256/;?type=http",
+        "station_url": "https://www.radiok.org/",
+        "genres": []
+    },
+    {
+        "name": "WPTS - University of Pittsburgh",
+        "audio_url": "http://audio.wpts.pitt.edu:8000/wpts_live_128s.mp3",
+        "station_url": "https://wptsradio.org/",
+        "genres": []
+    },
+    {
+        "name": "WMFO - Tufts University",
+        "audio_url": "http://webstream.wmfo.org/;?type=http",
+        "station_url": "https://www.wmfo.org/",
+        "genres": []
+    },
+    {
+        "name": "KRLX - Carleton College",
+        "audio_url": "http://137.22.31.174:8000/stream",
+        "station_url": "https://content.krlx.org/",
+        "genres": []
+    },
+    {
+        "name": "CKCU - Carleton University",
+        "audio_url": "https://stream2.statsradio.com:8124/stream",
+        "station_url": "https://www.ckcufm.com/",
+        "genres": []
+    },
+    {
+        "name": "WUNH - University of New Hampshire",
+        "audio_url": "http://s9.viastreaming.net:9000/;",
+        "station_url": "https://www.unh.edu/wunh/",
+        "genres": []
+    },
+    {
+        "name": "WMSR - Miami University",
+        "audio_url": "https://s2.radio.co/s20123bfa0/listen",
+        "station_url": "https://www.redhawkradio.com/",
+        "genres": []
+    },
+    {
+        "name": "WBRU - Brown University",
+        "audio_url": "https://s3.radio.co/s115121de1/listen",
+        "station_url": "https://www.wbru.com/",
+        "genres": []
+    },
+    {
+        "name": "WZBC - Boston College",
+        "audio_url": "https://stream.wzbc.org/wzbc",
+        "station_url": "https://www.wzbc.org/",
+        "genres": []
+    },
+    {
+        "name": "WIUP - Indiana University of Pennsylvania",
+        "audio_url": "http://144.80.16.164:8000/xstream",
+        "station_url": "http://www.wiupfm.org/",
+        "genres": []
+    },
+    {
+        "name": "WRUW - Case Western Reserve University",
+        "audio_url": "https://wruw-stream.wruw.org/hls/stream.m3u8",
+        "station_url": "https://wruw.org/",
+        "genres": []
+    },
+    {
+        "name": "CFRC - Queen's University",
+        "audio_url": "http://audio.cfrc.ca:8000/;",
+        "station_url": "https://www.cfrc.ca/",
+        "genres": []
+    },
+    {
+        "name": "KANM - Texas A&M University",
+        "audio_url": "https://icecast.kanm.org/listen",
+        "station_url": "https://kanm.tamu.edu/#/",
+        "genres": []
+    },
+    {
+        "name": "WRFL - University of Kentucky",
+        "audio_url": "https://wrfl.fm:8002/stream/1",
+        "station_url": "https://wrfl.fm/",
+        "genres": []
+    },
+    {
+        "name": "WXPN - University of Pennsylvania",
+        "audio_url": "https://wxpn.xpn.org/xpnmp3hi",
+        "station_url": "https://xpn.org/",
+        "genres": []
+    },
+    {
+        "name": "WIUX - Indiana University",
+        "audio_url": "https://ice25.securenetsystems.net/WIUXLP",
+        "station_url": "https://www.wiux.org/",
+        "genres": []
+    },
+    {
+        "name": "WFUV - Fordham University",
+        "audio_url": "https://onair.wfuv.org/onair-hi",
+        "station_url": "https://wfuv.org/",
+        "genres": []
+    },
+    {
+        "name": "WECS - Eastern Connecticut State University",
+        "audio_url": "https://s3.radio.co/s8d7d6d8d5/listen",
+        "station_url": "http://wecsfm.com/",
+        "genres": []
+    },
+    {
+        "name": "KVSC - St. Cloud State University",
+        "audio_url": "https://corn.kvsc.org/broadband",
+        "station_url": "https://www.kvsc.org/",
+        "genres": []
+    },
+    {
+        "name": "WBER - BOCES Monroe",
+        "audio_url": "http://wber-ice-encoder.monroe.edu/wber-high.mp3",
+        "station_url": "https://wber.org/",
+        "genres": []
+    },
+    {
+        "name": "WSTB - Streetsboro City School District",
+        "audio_url": "https://us2.maindigitalstream.com/ssl/WSTB",
+        "station_url": "https://www.rock889.com/",
+        "genres": []
+    },
+    {
+        "name": "WILY - Purdue University",
+        "audio_url": "https://azuracast.wileyradio.org/listen/wiley_radio/radio.mp3",
+        "station_url": "https://wileyradio.org/",
+        "genres": []
+    },
+    {
+        "name": "WYBC - Yale University",
+        "audio_url": "https://wybcx-stream.creek.org/stream",
+        "station_url": "https://wybc.com/",
+        "genres": []
+    },
+    {
+        "name": "WVBR - Cornell University",
+        "audio_url": "https://ais-edge51-live365-dal02.cdnstream.com/a52371",
+        "station_url": "https://www.cornellradio.com/",
+        "genres": []
+    },
+    {
+        "name": "WKCR - Columbia University",
+        "audio_url": "https://wkcr.streamguys1.com/live",
+        "station_url": "https://www.cc-seas.columbia.edu/wkcr/",
+        "genres": []
+    },
+    {
+        "name": "KAOS - The Evergreen State College",
+        "audio_url": "http://www.golden-apple.com:8930/;",
+        "station_url": "https://www.kaosradio.org/",
+        "genres": []
+    },
+    {
+        "name": "WBGU - Bowling Green State University",
+        "audio_url": "http://dvstream2.bgsu.edu:8000/wbgu",
+        "station_url": "https://www.bgfalconmedia.com/wbgu-fm/",
+        "genres": []
+    },
+    {
+        "name": "WMBR - Massachusetts Institute of Technology",
+        "audio_url": "https://wmbr.org:8002/hi",
+        "station_url": "https://wmbr.org/",
+        "genres": []
+    },
+    {
+        "name": "WRBB - Northeastern University",
+        "audio_url": "https://audio-edge-w4d68.yul.o.radiomast.io/dafd1179-5404-4939-9c1c-a014c6964254",
+        "station_url": "https://wrbbradio.org/",
+        "genres": []
+    },
+    {
+        "name": "WITR - Rochester Institute of Technology",
+        "audio_url": "https://streaming.witr.rit.edu/high",
+        "station_url": "https://witr.rit.edu/",
+        "genres": []
+    },
+    {
+        "name": "WFMU - Upsala College",
+        "audio_url": "https://stream0.wfmu.org/freeform-128k.mp3",
+        "station_url": "https://wfmu.org/",
+        "genres": []
+    },
+    {
+        "name": "WMSE - Milwaukee School of Engineering",
+        "audio_url": "https://wmse.streamguys1.com/wmselivemp3",
+        "station_url": "https://www.wmse.org/",
+        "genres": []
+    },
+    {
+        "name": "WSUW - University of Wisconsin-Whitewater",
+        "audio_url": "http://wsuw-test.uww.edu:80/wsuwliveaac",
+        "station_url": "https://917theedge.weebly.com/",
+        "genres": []
+    },
+    {
+        "name": "WUSB - Stony Brook University",
+        "audio_url": "https://stream.wusb.stonybrook.edu:8092/listen.pl",
+        "station_url": "https://www.wusb.fm/",
+        "genres": []
+    },
+    {
+        "name": "KJHK - University of Kansas",
+        "audio_url": "https://listen.mixlr.com/349480acbad142f8ea55e3725ae231a1",
+        "station_url": "https://kjhk.org/",
+        "genres": []
+    },
+    {
+        "name": "CFMU - McMaster University",
+        "audio_url": "https://stream.cfmu.ca/mount.128mp3",
+        "station_url": "https://cfmu.ca/",
+        "genres": []
+    },
+    {
+        "name": "KDUR - Fort Lewis College",
+        "audio_url": "http://kdurradio.fortlewis.edu/stream",
+        "station_url": "https://www.kdur.org/",
+        "genres": []
+    },
+    {
+        "name": "WTHS - Hope College",
+        "audio_url": "https://s3.radio.co/scf79220ed/listen",
+        "station_url": "https://wths.hope.edu/",
+        "genres": []
+    },
+    {
+        "name": "UWSR - University of West Scotland",
+        "audio_url": "http://icecast.commedia.org.uk:8000/ucaradio.mp3",
+        "station_url": "http://uwsradio.co.uk/",
+        "genres": []
+    },
+    {
+        "name": "RUA - University of Algarve",
+        "audio_url": "https://centova.radio.com.pt/proxy/536?mp=/stream",
+        "station_url": "https://rua.pt/",
+        "genres": []
+    },
+    {
+        "name": "UFM - University of Trás-os-Montes and Alto Douro",
+        "audio_url": "https://centova.radio.com.pt/proxy/405?mp=/stream",
+        "station_url": "https://www.universidade.fm/",
+        "genres": []
+    },
+    {
+        "name": "UAL - Autonomous University of Lisbon",
+        "audio_url": "https://spaudio.servers.pt/8006/stream",
+        "station_url": "https://ualmedia.pt/",
+        "genres": []
+    },
+    {
+        "name": "WCFM - Williams College",
+        "audio_url": "http://137.165.206.193:8000/stream?",
+        "station_url": "https://sites.williams.edu/wcfm/",
+        "genres": []
+    },
+    {
+        "name": "XEUN - National Autonomous University of Mexico",
+        "audio_url": "https://tv.radiohosting.online:9484/stream",
+        "station_url": "https://www.radio.unam.mx/",
+        "genres": []
+    },
+    {
+        "name": "CAMF - University of Cambridge",
+        "audio_url": "https://stream.camfm.co.uk/camfm",
+        "station_url": "https://www.camfm.co.uk/",
+        "genres": []
+    },
+    {
+        "name": "OXID - University of Oxford",
+        "audio_url": "https://uk3.internet-radio.com/proxy/oxideradio?mp=/stream",
+        "station_url": "https://www.oxideradio.live/",
+        "genres": []
+    },
+    {
+        "name": "LR11 - National University of La Plata",
+        "audio_url": "https://stream.radiouniversidad.unlp.edu.ar:8040/fm",
+        "station_url": "https://www.radiouniversidad.unlp.edu.ar/",
+        "genres": []
+    },
+    {
+        "name": "WKOW - University of Applied Sciences Vienna",
+        "audio_url": "https://radioradieschen.stream.kapper.net/radioradieschen",
+        "station_url": "https://www.radio-radieschen.at/",
+        "genres": []
+    },
+    {
+        "name": "WRCP - University of Paris",
+        "audio_url": "https://www.radiocampusparis.org/stream/",
+        "station_url": "https://www.radiocampusparis.org/",
+        "genres": []
+    },
+    {
+        "name": "WRCT - Carnegie Mellon University",
+        "audio_url": "http://stream.wrct.org:8000/wrct-hi.mp3",
+        "station_url": "http://www.wrct.org/",
+        "genres": []
+    },
+    {
+        "name": "WSBU - St. Bonaventure University",
+        "audio_url": "https://19293.live.streamtheworld.com/WSBUFMAAC.aac",
+        "station_url": "https://wsbufm.com/",
+        "genres": []
+    },
+    {
+        "name": "KNTU - University of North Texas",
+        "audio_url": "https://ice41.securenetsystems.net/KNTU",
+        "station_url": "https://kntu.com/",
+        "genres": []
+    },
+    {
+        "name": "KSJS - San Jose State University",
+        "audio_url": "https://streaming.ksjs.sjsu.edu/",
+        "station_url": "https://ksjs.org/",
+        "genres": []
+    },
+    {
+        "name": "KCSN - California State University, Northridge",
+        "audio_url": "https://stream1.thesocalsound.org/1",
+        "station_url": "https://www.thesocalsound.org/",
+        "genres": []
+    },
+    {
+        "name": "WRVU - Vanderbilt University",
+        "audio_url": "https://streaming.wrvu.org/live",
+        "station_url": "https://wrvu.org/",
+        "genres": []
+    },
+    {
+        "name": "KUCI - University of California, Irvine",
+        "audio_url": "https://streamer.kuci.org:8088/high",
+        "station_url": "https://kuci.org/wp/",
+        "genres": []
+    },
+    {
+        "name": "WKSU - Kent State University",
+        "audio_url": "https://live.ideastream.org/wksu1.128.mp3",
+        "station_url": "https://www.wksu.org/",
+        "genres": []
+    },
+    {
+        "name": "KVCU - University of Colorado at Boulder",
+        "audio_url": "https://kvcu.streamguys1.com/live",
+        "station_url": "https://1190.radio/",
+        "genres": []
+    },
+    {
+        "name": "WEGL - Auburn University",
+        "audio_url": "https://ais-sa1.streamon.fm/7116_32k.aac",
+        "station_url": "https://www.weglfm.com/",
+        "genres": []
+    },
+    {
+        "name": "KCSB - University of California, Santa Barbara",
+        "audio_url": "http://live.kcsb.org/KCSB_128",
+        "station_url": "https://www.kcsb.org/",
+        "genres": []
+    },
+    {
+        "name": "WNUR - Northwestern University",
+        "audio_url": "https://n15.rcs.revma.com/w4pmmfkdx4zuv",
+        "station_url": "https://wnur.northwestern.edu/",
+        "genres": []
+    },
+    {
+        "name": "WHPK - University of Chicago",
+        "audio_url": "http://205.208.30.113:8000/stream",
+        "station_url": "https://whpk.org/",
+        "genres": []
+    },
+    {
+        "name": "WHRW - State University of New York at Binghamton",
+        "audio_url": "https://securestreams4.autopo.st:1794/hi",
+        "station_url": "https://whrw.fm/",
+        "genres": []
+    },
+    {
+        "name": "WUAG - University of North Carolina at Greensboro",
+        "audio_url": "https://das-edge09-live365-dal03.cdnstream.com/a43900",
+        "station_url": "https://wuag.uncg.edu/",
+        "genres": []
+    },
+    {
+        "name": "WIDR - Western Michigan University",
+        "audio_url": "http://widrfm.net/stream",
+        "station_url": "https://www.widrfm.org/",
+        "genres": []
+    },
+    {
+        "name": "WLUW - Loyola University of Chicago",
+        "audio_url": "https://wluw.streamguys1.com/stream.mp3",
+        "station_url": "https://wluw.org/",
+        "genres": []
+    },
+    {
+        "name": "KGLT - Montana State University",
+        "audio_url": "https://live.kgltradio.com/256",
+        "station_url": "https://kglt.net/",
+        "genres": []
+    },
+    {
+        "name": "WSND - University of Notre Dame",
+        "audio_url": "https://streamer.radio.co/s9751a0c22/listen",
+        "station_url": "https://wsnd.nd.edu/",
+        "genres": []
+    },
+    {
+        "name": "WCSB - Cleveland State University",
+        "audio_url": "https://or.mysonicserver.com/8030/stream",
+        "station_url": "https://www.wcsb.org/",
+        "genres": []
+    },
+    {
+        "name": "KUOI - University of Idaho",
+        "audio_url": "https://s2.radio.co/sedf30688d/listen",
+        "station_url": "https://www.kuoi.org/",
+        "genres": []
+    },
+    {
+        "name": "KWTS - West Texas A&M University",
+        "audio_url": "https://ice41.securenetsystems.net/KWTS",
+        "station_url": "https://www.wtamu.edu/academics/college-fine-arts-humanities/department-communication/get-involved/kwts.html",
+        "genres": []
+    },
+    {
+        "name": "WNCU - North Carolina Central University",
+        "audio_url": "https://wncu.streamguys1.com/live",
+        "station_url": "https://www.wncu.org/",
+        "genres": []
+    },
+    {
+        "name": "WIXQ - Millersville University of Pennsylvania",
+        "audio_url": "http://wixq.millersville.edu:8000/live.nsv",
+        "station_url": "https://www.917theville.com/",
+        "genres": []
+    },
+    {
+        "name": "WCWM - College of William and Mary",
+        "audio_url": "https://wcwm.broadcasttool.stream/wcwm-onair",
+        "station_url": "https://wcwm.wm.edu/",
+        "genres": []
+    },
+    {
+        "name": "KTRM - Truman State University",
+        "audio_url": "https://securestream.truman.edu/ktrm",
+        "station_url": "https://tmn.truman.edu/",
+        "genres": []
+    },
+    {
+        "name": "WVUA - University of Alabama",
+        "audio_url": "https://das-edge17-live365-dal02.cdnstream.com/a83139",
+        "station_url": "http://wvuafm.ua.edu/",
+        "genres": []
+    },
+    {
+        "name": "KTXT - Texas Tech University",
+        "audio_url": "https://ice7.securenetsystems.net/KTXTFM",
+        "station_url": "https://www.ktxtfm.org/raider/",
+        "genres": []
+    },
+    {
+        "name": "WUSC - University of South Carolina",
+        "audio_url": "https://stream.wusc.fm/listen.mp3",
+        "station_url": "https://www.wusc.fm/",
+        "genres": []
+    },
+    {
+        "name": "WMUA - University of Massachusetts at Amherst",
+        "audio_url": "https://usa5.fastcast4u.com/proxy/qernhlca?mp=/1",
+        "station_url": "https://www.umass.edu/wmua/",
+        "genres": []
+    },
+    {
+        "name": "KGOU - University of Oklahoma",
+        "audio_url": "https://18123.live.streamtheworld.com/KGOUFM_64.mp3",
+        "station_url": "https://www.kgou.org/",
+        "genres": []
+    },
+    {
+        "name": "KBLU - Utah State University",
+        "audio_url": "https://aggieradio.creek.stream/stream",
+        "station_url": "https://www.usu.edu/student-media/aggie-radio/",
+        "genres": []
+    },
+    {
+        "name": "KJACK - Northern Arizona University",
+        "audio_url": "https://stream.ec.nau.edu:8443/kjack",
+        "station_url": "https://www.kjackradio.com/",
+        "genres": []
+    },
+    {
+        "name": "WUMS - University of Mississippi",
+        "audio_url": "http://130.74.34.21:8000/listen",
+        "station_url": "https://myrebelradio.com/",
+        "genres": []
+    },
+    {
+        "name": "WZMB - East Carolina University",
+        "audio_url": "https://ice41.securenetsystems.net/WZMB",
+        "station_url": "https://www.piratemedia1.com/wzmb913fm/",
+        "genres": []
+    },
+    {
+        "name": "KTEP - University of Texas at El Paso",
+        "audio_url": "https://25023.live.streamtheworld.com/KTEPFM_ADP.aac",
+        "station_url": "https://www.ktep.org/",
+        "genres": []
+    },
+    {
+        "name": "WEMU - Eastern Michigan University",
+        "audio_url": "https://26273.live.streamtheworld.com/WEMUFMAAC.aac",
+        "station_url": "https://www.wemu.org/",
+        "genres": []
+    },
+    {
+        "name": "WMSV - Mississippi State University",
+        "audio_url": "https://stream.wmsv.msstate.edu:8000/wmsv",
+        "station_url": "https://www.wmsv.msstate.edu/",
+        "genres": []
+    },
+    {
+        "name": "KUCR - University of California, Riverside",
+        "audio_url": "http://138.23.75.92:8001/",
+        "station_url": "https://kucr.org/",
+        "genres": []
+    },
+    {
+        "name": "WZIP - University of Akron",
+        "audio_url": "https://www.streamvortex.com:8444/s/11300",
+        "station_url": "https://wzip.uakron.edu/",
+        "genres": []
+    },
+    {
+        "name": "KUNV - University of Nevada, Las Vegas",
+        "audio_url": "http://kunv.oit.unlv.edu:8000/stream/4/",
+        "station_url": "https://www.unlv.edu/kunv",
+        "genres": []
+    },
+    {
+        "name": "WZND - Illinois State University",
+        "audio_url": "https://26353.live.streamtheworld.com/WZNDFM.mp3",
+        "station_url": "https://wznd.com/",
+        "genres": []
+    },
+    {
+        "name": "WFDD - Wake Forest University",
+        "audio_url": "http://152.17.49.84:8000/wakeradio",
+        "station_url": "https://wakeradio.groups.wfu.edu/",
+        "genres": []
+    },
+    {
+        "name": "KWBU - Baylor University",
+        "audio_url": "https://radio.clevr.me/kwbu",
+        "station_url": "https://www.kwbu.org/",
+        "genres": []
+    },
+    {
+        "name": "KSDB - Kansas State University",
+        "audio_url": "https://s.radiowave.io/ksdb.mp3",
+        "station_url": "https://wildcat919.com/",
+        "genres": []
+    },
+    {
+        "name": "WYXR - University of Memphis",
+        "audio_url": "https://crosstown.streamguys1.com/live-website-aac",
+        "station_url": "https://wyxr.org/",
+        "genres": []
+    },
+    {
+        "name": "KASU - Arkansas State University",
+        "audio_url": "https://kasu.streamguys1.com/live.mp3",
+        "station_url": "https://www.kasu.org/",
+        "genres": []
+    },
+    {
+        "name": "KWUR - Washington University in St. Louis",
+        "audio_url": "https://listen.mixlr.com/25e83e0436e36c0e95b3db8f8826c1af",
+        "station_url": "http://kwur.wustl.edu/",
+        "genres": []
+    },
+    {
+        "name": "WHBC - Howard University",
+        "audio_url": "https://ais-sa1.streamon.fm/7165_48k.aac",
+        "station_url": "https://www.whbc963hd3.com/",
+        "genres": []
+    },
+    {
+        "name": "KUWR - University of Wyoming",
+        "audio_url": "https://wyoming-public-ice.streamguys1.com/WPR128MP3",
+        "station_url": "https://www.wyomingpublicmedia.org/",
+        "genres": []
+    },
+    {
+        "name": "WUDR - University of Dayton",
+        "audio_url": "https://ais-sa1.streamon.fm/7041_48k.aac",
+        "station_url": "https://udayton.edu/studev/leadership/involvement/student-life/org-radio.php",
+        "genres": []
+    },
+    {
+        "name": "WXVU - Villanova University",
+        "audio_url": "https://securestream.casthost.net:8159/stream",
+        "station_url": "https://wxvu.org/",
+        "genres": []
+    },
+    {
+        "name": "KULT - University of Northern Iowa",
+        "audio_url": "https://streamer.radio.co/s39286623b/low",
+        "station_url": "https://kult.uni.edu/",
+        "genres": []
+    },
+    {
+        "name": "WWNO - University of New Orleans",
+        "audio_url": "https://newscast.talklouisiana.org/newscast/newscast.mp3",
+        "station_url": "https://www.wwno.org/",
+        "genres": []
+    },
+    {
+        "name": "WIIT - Illinois Institute of Technology",
+        "audio_url": "https://icecast.iit.edu/WIITstream",
+        "station_url": "https://radio.iit.edu/",
+        "genres": []
+    },
+    {
+        "name": "WOBC - Oberlin College",
+        "audio_url": "https://wobc.stream/main",
+        "station_url": "https://wobc-fm.org/",
+        "genres": []
+    },
+    {
+        "name": "WRDL - Ashland University",
+        "audio_url": "https://das-edge12-live365-dal02.cdnstream.com/a12400_2",
+        "station_url": "https://wrdlfm.com/",
+        "genres": []
+    },
+    {
+        "name": "WDCR - Dartmouth College",
+        "audio_url": "https://18703.live.streamtheworld.com/DC_RADIOAAC.aac",
+        "station_url": "https://webdcr.com/",
+        "genres": []
+    },
+    {
+        "name": "1.FM - Movie Soundtracks",
+        "audio_url": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
+        "station_url": "https://radio.1cloud.fm",
+        "genres": []
+    },
+    {
+        "name": "YouRadio - Beatles",
+        "audio_url": "https://nl4.mystreaming.net/er/beatles/icecast.audio",
+        "station_url": "https://you.radio",
+        "genres": []
+    }
+]

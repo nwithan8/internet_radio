@@ -1,0 +1,87 @@
+{
+    "$id": "https://github.com/nwithan8/unraid_templates/automation/change_monitoring/data_schema.json",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$comment": "https://github.com/nwithan8/unraid_templates",
+    "title": "Stations Data Schema",
+    "additionalProperties": true,
+    "definitions": {
+        "emptyString": {
+            "id": "#/definitions/emptyString",
+            "type": "string",
+            "pattern": "^$"
+        },
+        "nullableString": {
+            "id": "#/definitions/nullableString",
+            "oneOf": [
+                {
+                    "type": "string",
+                    "minLength": 1
+                },
+                {
+                    "$ref": "#/definitions/emptyString"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "stationName": {
+            "id": "#/definitions/stationName",
+            "type": "string",
+            "minLength": 1
+        },
+        "stationUrl": {
+            "id": "#/definitions/stationUrl",
+            "type": "string",
+            "format": "uri"
+        },
+        "audioUrl": {
+            "id": "#/definitions/audioUrl",
+            "type": "string",
+            "format": "uri"
+        },
+        "genre": {
+            "id": "#/definitions/genre",
+            "type": "string"
+        },
+        "genres": {
+            "id": "#/definitions/genres",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/genre"
+            }
+        },
+        "station": {
+            "id": "#/definitions/station",
+            "type": "object",
+            "properties": {
+                "name": {
+                    "description": "The name of the station",
+                    "$ref": "#/definitions/stationName"
+                },
+                "station_url": {
+                    "description": "The URL of the station's website",
+                    "$ref": "#/definitions/stationUrl"
+                },
+                "audio_url": {
+                    "description": "The URL of the station's audio stream",
+                    "$ref": "#/definitions/audioUrl"
+                },
+                "genres": {
+                    "description": "The genres of music played by the station",
+                    "$ref": "#/definitions/genres"
+                }
+            },
+            "required": [
+                "name",
+                "station_url",
+                "audio_url"
+            ]
+        }
+    },
+    "description": "A list of radio stations",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/station"
+    }
+}
