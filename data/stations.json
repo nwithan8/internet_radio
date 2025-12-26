@@ -576,21 +576,9 @@
         "genres": []
     },
     {
-        "name": "WKCR - Columbia University",
-        "audio_url": "https://wkcr.streamguys1.com/live",
-        "station_url": "https://www.cc-seas.columbia.edu/wkcr/#",
-        "genres": []
-    },
-    {
         "name": "WSOU - Seton Hall University",
         "audio_url": "https://d3byg0ij92yqk6.cloudfront.net/streamWSOU1.m3u8",
         "station_url": "https://www.wsou.net",
-        "genres": []
-    },
-    {
-        "name": "WUSB - Stony Brook University",
-        "audio_url": "https://stream.wusb.stonybrook.edu:8092/listen.pl/relay",
-        "station_url": "https://www.wusb.fm",
         "genres": []
     },
     {
@@ -654,21 +642,9 @@
         "genres": []
     },
     {
-        "name": "WVFS - Florida State University",
-        "audio_url": "http://voice.wvfs.fsu.edu:8000/stream",
-        "station_url": "https://wvfs.fsu.edu/",
-        "genres": []
-    },
-    {
         "name": "WUOG - University of Georgia",
         "audio_url": "https://stream.wuog.org/stream",
         "station_url": "http://wuog.org/",
-        "genres": []
-    },
-    {
-        "name": "WXTJ - University of Virginia",
-        "audio_url": "https://streams.wtju.net/wxtj-live.mp3",
-        "station_url": "https://www.wxtj.fm/",
         "genres": []
     },
     {
@@ -681,12 +657,6 @@
         "name": "WTBU - Boston University",
         "audio_url": "http://wtbu.bu.edu:1800/",
         "station_url": "https://sites.bu.edu/wtbu/",
-        "genres": []
-    },
-    {
-        "name": "WKDU - Drexel University",
-        "audio_url": "https://streams.wkdu.org/listen.mp3",
-        "station_url": "https://wkdu.org/",
         "genres": []
     },
     {
@@ -882,12 +852,6 @@
         "genres": []
     },
     {
-        "name": "KTUH - University of Hawaii at Manoa",
-        "audio_url": "https://stream.ktuh.org:8001/stream",
-        "station_url": "https://ktuh.org/",
-        "genres": []
-    },
-    {
         "name": "KTRU - Rice University",
         "audio_url": "https://ice41.securenetsystems.net/KTRU64M",
         "station_url": "https://ktru.org/",
@@ -909,12 +873,6 @@
         "name": "WXDU - Duke University",
         "audio_url": "http://weeping.wxdu.duke.edu:8000/wxdu128.mp3",
         "station_url": "https://www.wxdu.org/",
-        "genres": []
-    },
-    {
-        "name": "KCSU - Colorado State University",
-        "audio_url": "https://listen.kcsufm.com/stream",
-        "station_url": "https://kcsufm.com/",
         "genres": []
     },
     {
@@ -951,12 +909,6 @@
         "name": "WRAS - Georgia State University",
         "audio_url": "https://15233.live.streamtheworld.com/WRASFM.mp3",
         "station_url": "https://wras.org/",
-        "genres": []
-    },
-    {
-        "name": "KXLU - Loyola Marymount University",
-        "audio_url": "https://kxlu.streamguys1.com/kxlu-hi",
-        "station_url": "https://kxlu.com/",
         "genres": []
     },
     {
@@ -1020,12 +972,6 @@
         "genres": []
     },
     {
-        "name": "WBRU - Brown University",
-        "audio_url": "https://s3.radio.co/s115121de1/listen",
-        "station_url": "https://www.wbru.com/",
-        "genres": []
-    },
-    {
         "name": "WZBC - Boston College",
         "audio_url": "https://stream.wzbc.org/wzbc",
         "station_url": "https://www.wzbc.org/",
@@ -1047,18 +993,6 @@
         "name": "CFRC - Queen's University",
         "audio_url": "http://audio.cfrc.ca:8000/;",
         "station_url": "https://www.cfrc.ca/",
-        "genres": []
-    },
-    {
-        "name": "KANM - Texas A&M University",
-        "audio_url": "https://icecast.kanm.org/listen",
-        "station_url": "https://kanm.tamu.edu/#/",
-        "genres": []
-    },
-    {
-        "name": "WRFL - University of Kentucky",
-        "audio_url": "https://wrfl.fm:8002/stream/1",
-        "station_url": "https://wrfl.fm/",
         "genres": []
     },
     {
@@ -1263,12 +1197,6 @@
         "name": "WKOW - University of Applied Sciences Vienna",
         "audio_url": "https://radioradieschen.stream.kapper.net/radioradieschen",
         "station_url": "https://www.radio-radieschen.at/",
-        "genres": []
-    },
-    {
-        "name": "WRCP - University of Paris",
-        "audio_url": "https://www.radiocampusparis.org/stream/",
-        "station_url": "https://www.radiocampusparis.org/",
         "genres": []
     },
     {
