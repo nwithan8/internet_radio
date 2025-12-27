@@ -26,7 +26,7 @@ This repo contains a few tools to help work with the radio station data:
 
 - `import_radio_stations_to_navidrome.sh`: A shell script to import/seed the radio stations into Navidrome, a self-hosted music server that supports internet radio stations.
     - Usage: `sh import_radio_stations_to_navidrome.sh path/to/radio_stations.json http://navidrome-server:port username password`
-    - Any existing stations with the same name will be skipped and throw a non-terminating error by the server. This is normal behavior built into Navidrome's API.
+      - Any existing stations with the same name will be skipped and throw a non-terminating error by the server. This is normal behavior built into Navidrome's API.
     - This script is tested and confirmed to work with Navidrome. It is unclear if this will work with other Subsonic-based systems, [although it should](https://www.subsonic.org/pages/api.jsp#createInternetRadioStation).
 
 ## Credit
